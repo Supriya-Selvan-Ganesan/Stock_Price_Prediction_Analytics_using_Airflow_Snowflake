@@ -1,1 +1,1 @@
-# Stock_Price_Prediction_Analytics_using_Airflow_Snowflake
+# Stock Price Prediction Analytics using Airflow Snowflake
